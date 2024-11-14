@@ -15,8 +15,8 @@ classDiagram
     class Account {
         - number: String
         - agency: String
-        - balance: Double
-        - limit: Double
+        - balance: Number
+        - limit: Number
     }
 
     class Operation {
@@ -26,7 +26,7 @@ classDiagram
 
     class Card {
         - number: String
-        - limit: Double
+        - limit: Number
     }
 
     class News {
