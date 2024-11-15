@@ -1,0 +1,1 @@
+web: java -jar build/libs/lab-final-spring-railway-0.0.1-SNAPSHOT.jar
